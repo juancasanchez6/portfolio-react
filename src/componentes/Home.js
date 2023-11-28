@@ -12,7 +12,7 @@ const Home = () => {
           Juan Carlos Sánchez
         </h1>
         <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">
-          Soy un Web Developer.
+          Soy un Desarrollador Web.
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
           Hola soy un desarrollador web, que tiene diferentes experiencias y ha
