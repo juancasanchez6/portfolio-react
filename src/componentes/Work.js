@@ -86,7 +86,8 @@ const Work = () => {
                 Aplicación del Tiempo
               </span>
               <div className="pt-8 text-center">
-                <a href="http://juancasanchez6.github.io/react-weather" target="_blank" rel="noopener ">
+                <a href="http://juancasanchez6.github.io/react-weather"
+                 target="_blank" rel="noopener ">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
