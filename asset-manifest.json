@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.e0c4a609.css",
+    "main.js": "/portfolio-react/static/js/main.1a132d57.js",
+    "static/media/imagen-app-notas.png": "/portfolio-react/static/media/imagen-app-notas.2c9746ba3d34b336a98e.png",
+    "static/media/imagen-app-libros.jpg": "/portfolio-react/static/media/imagen-app-libros.a1ec0af8d9fef70d8000.jpg",
+    "static/media/react.png": "/portfolio-react/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/portfolio-react/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/JC.png": "/portfolio-react/static/media/JC.41dbe5a511aa72b88349.png",
+    "static/media/html.png": "/portfolio-react/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio-react/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio-react/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/portfolio-react/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio-react/index.html",
+    "main.e0c4a609.css.map": "/portfolio-react/static/css/main.e0c4a609.css.map",
+    "main.1a132d57.js.map": "/portfolio-react/static/js/main.1a132d57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0c4a609.css",
+    "static/js/main.1a132d57.js"
+  ]
+}
