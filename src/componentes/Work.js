@@ -29,7 +29,7 @@ const Work = () => {
               <div className="pt-8 text-center">
                 <a
                   href="https://juancasanchez6.github.io/react-books"
-                  target="noopener"
+                  target="_blank" rel="noopener "
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
@@ -58,7 +58,7 @@ const Work = () => {
                 Aplicación de Notas
               </span>
               <div className="pt-8 text-center">
-                <a href="http://juancasanchez6.github.io/react-ejercicios">
+                <a href="http://juancasanchez6.github.io/react-ejercicios" target="_blank" rel="noopener ">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
@@ -86,7 +86,7 @@ const Work = () => {
                 Aplicación del Tiempo
               </span>
               <div className="pt-8 text-center">
-                <a href="/" target="noopener">
+                <a href="http://juancasanchez6.github.io/react-weather" target="_blank" rel="noopener ">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
