@@ -12,7 +12,7 @@ const Contact = () => {
             Contact
           </p>
           <p className="text-gray-300 py-4">
-            *Enviar el formulario a continuación o enciarme un email a
+            *Enviar el formulario a continuación o envíame un email a
             'jcsanchezr04@educarex.es'*
           </p>
         </div>
