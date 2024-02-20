@@ -12,8 +12,8 @@ const Contact = () => {
             Contact
           </p>
           <p className="text-gray-300 py-4">
-            *Enviar el formulario a continuación o envíame un email a
-            'jcsanchezr04@educarex.es'*
+            Enviar el formulario a continuación o envíame un email a
+            'juanca.cpc16@gmail.com'
           </p>
         </div>
         <input className="bg-[#ccd6f6] p-2" type="text" placeholder="Nombre" name="nombre" />

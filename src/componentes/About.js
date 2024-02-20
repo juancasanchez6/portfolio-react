@@ -5,23 +5,24 @@ const About = () => {
     <div name="about" className="w-full h-screen bg-[#0a192f] text-gray-300">
       <div className="flex flex-col justify-center items-center w-full h-full">
         <div className="max-w-[1000px] w-full grid grid-cols-2 gap-8">
-          <div className="sm:text-right pb-8 pl-4">
+
+          <div></div>
+        </div>
+        <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
+          <div className="mx-auto p-4 flex flex-col justify-center w-full h-full">
             <p className="text-4xl font-bold inline border-b-4 border-pink-600">
               Sobre
             </p>
           </div>
-          <div></div>
-        </div>
-        <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
-          <div className="sm:text-right text-4xl font-bold">
-            <p>Hola, me llamo Juan Carlos Sánchez Rodríguez</p>
-          </div>
           <div>
             <p>
-              Hola soy un desarrollador web, que tiene diferentes experiencias y
-              ha estudiado Ingeniería de Sonido e Imagen en la Universidad
-              Politécnica de Madrid y una FP superior de Desarrollador de
-              Aplicaciones Web.
+              Persona proactiva y creativa, con
+              gran capacidad de resolución y
+              trabajo en equipo, .
+              Excelentes capacidades sociales
+              y comunicativas.
+              Aptitud para asumir retos de
+              manera motivacional
             </p>
           </div>
         </div>
