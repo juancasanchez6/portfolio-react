@@ -169,7 +169,16 @@ const Navbar = () => {
               </a>
             </Link>
           </li>
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#fff]">
 
+            <a
+              className="flex justify-between items-center w-full text-blue-300"
+              href="https://github.com/juancasanchez6"
+              target='blank'
+            >
+              Linkedin <FaLinkedin size={30} />
+            </a>
+          </li>
         </ul>
       </div>
     </div>

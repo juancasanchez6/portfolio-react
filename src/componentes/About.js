@@ -18,11 +18,14 @@ const About = () => {
             <p>
               Persona proactiva y creativa, con
               gran capacidad de resolución y
-              trabajo en equipo, .
+              trabajo en equipo.
               Excelentes capacidades sociales
               y comunicativas.
               Aptitud para asumir retos de
-              manera motivacional
+              manera motivacional.
+              Me he formado en una Formación Dual <b>(NOVIS)</b> en el grado de Desarrollo de Aplicaciones Web.
+              Actualmente me encuentro trabajando como desarrollador en la empresa que hice la Formación Dual y las prácticas, a la vez que estudio el segundo año
+              de Desarrollo de Aplicaciones Multiplataforma.
             </p>
           </div>
         </div>
