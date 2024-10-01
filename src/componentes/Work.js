@@ -3,6 +3,7 @@ import ImgLibros from "../assets/imagen-app-libros.jpg";
 import ImgNotas from "../assets/imagen-app-notas.png";
 import ImgTiempo from "../assets/imagen-app-tiempo.jpg";
 import ImgWordle from "../assets/imagen-app-wordle.jpg"
+import ImgPasoAPaso from "../assets/paso-a-paso.jpg"
 
 const Work = () => {
   return (
@@ -22,7 +23,8 @@ const Work = () => {
 
           {/* Grid item */}
           <div
-            style={{ backgroundImage: url(${ ImgNotas }) }}
+            // eslint-disable-next-line no-undef
+            style={{ backgroundImage: `url(${ImgNotas})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Efecto Hover */}
@@ -50,7 +52,8 @@ const Work = () => {
 
           {/* Grid item */}
           <div
-            style={{ backgroundImage: url(${ ImgTiempo }) }}
+            // eslint-disable-next-line no-undef
+            style={{ backgroundImage: `url(${ImgTiempo})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Efecto Hover */}
@@ -78,7 +81,8 @@ const Work = () => {
           </div>
           {/* Grid item */}
           <div
-            style={{ backgroundImage: url(${ ImgWordle }) }}
+            // eslint-disable-next-line no-undef
+            style={{ backgroundImage: `url(${ImgWordle})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Efecto Hover */}
@@ -95,6 +99,34 @@ const Work = () => {
                 </a>
                 <a
                   href="https://github.com/juancasanchez6/wordle.git"
+                  target="noopener"
+                >
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Code
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
+            // eslint-disable-next-line no-undef
+            style={{ backgroundImage: `url(${ImgPasoAPaso})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
+          >
+            {/* Efecto Hover */}
+            <div className="opacity-0 group-hover:opacity-100">
+              <span className="text-2xl font-bold text-white tracking-wider">
+                Paso a Paso
+              </span>
+              <div className="pt-8 text-center">
+                <a href="https://paso-a-paso-master.vercel.app/login"
+                  target="_blank" rel="noopener  noreferrer">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Demo
+                  </button>
+                </a>
+                <a
+                  href="https://github.com/juancasanchezz/paso-a-paso-master.git"
                   target="noopener"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
