@@ -19,10 +19,9 @@ const About = () => {
           </div>
           <div>
             <p className="text-brand-muted text-lg leading-relaxed">
-              Soy un desarrollador apasionado por la creación de soluciones digitales eficientes y escalables.
-              Cuento con experiencia en el desarrollo de aplicaciones web y multiplataforma, caracterizándome
-              por mi proactividad, capacidad de resolución de problemas y trabajo en equipo.
-              Actualmente combino mi labor profesional con formación continua en nuevas tecnologías.
+              Con una sólida base técnica en desarrollo web y multiplataforma, mi carrera se centra en la ingeniería de software orientada a resultados. Me especializo en el ecosistema JavaScript/TypeScript (React, Node.js), construyendo aplicaciones que no solo cumplen con los requisitos funcionales, sino que priorizan la escalabilidad y la experiencia del usuario.
+              <br /><br />
+              Mi enfoque combina una resolución de problemas analítica con una adaptabilidad constante a las tecnologías emergentes, permitiéndome aportar valor inmediato y soluciones innovadoras en entornos de desarrollo dinámicos.
             </p>
           </div>
         </div>
@@ -60,11 +59,11 @@ const About = () => {
             {/* Experience Item */}
             <div className="bg-brand-card p-6 rounded shadow-md border-l-4 border-brand-accent transition-transform hover:-translate-y-1 hover:shadow-xl duration-300">
               <div className="flex justify-between items-baseline mb-2 flex-wrap">
-                <h4 className="text-xl font-bold text-brand-text">Desarrollador Junior</h4>
+                <h4 className="text-xl font-bold text-brand-text">Desarrollador Web</h4>
                 <span className="text-sm text-brand-accent font-mono bg-brand-dark/50 px-2 py-1 rounded">Instituto Extremeño de Cualificaciones</span>
               </div>
               <p className="text-brand-muted mt-4">
-                Participación en el desarrollo inicial de proyectos y sistemas de gestión interna de acreditaciones.
+                Participación en la evolución y en el mantenimiento de la plataforma de <span className="text-brand-text font-medium">IECA</span>.
               </p>
             </div>
           </div>

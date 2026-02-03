@@ -9,13 +9,13 @@ const Home = () => {
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
         <p className="text-brand-accent font-medium mb-2">Hola, mi nombre es</p>
         <h1 className="text-4xl sm:text-7xl font-bold text-brand-text mb-2">
-          Juan Carlos Sanchez
+          Juan Carlos Sánchez Rodríguez
         </h1>
         <h2 className="text-4xl sm:text-7xl font-bold text-brand-muted mb-6">
           Desarrollador Web.
         </h2>
         <p className="text-brand-muted py-4 max-w-[700px] text-lg leading-relaxed">
-          Soy un desarrollador especializado en construir (y ocasionalmente diseñar) experiencias digitales excepcionales. Actualmente, estoy enfocado en construir aplicaciones web responsivas full-stack.
+          Desarrollador Full Stack especializado en la creación de soluciones digitales robustas y escalables. Transformo ideas complejas en experiencias web intuitivas y de alto rendimiento, con un enfoque firme en la calidad del código y la eficiencia del usuario.
         </p>
 
         <div>

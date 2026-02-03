@@ -19,10 +19,10 @@ const Navbar = () => {
 
   return (
     <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-brand-dark/90 backdrop-blur-sm text-brand-text z-50 shadow-sm border-b border-brand-card">
-      <div>
+      {/* <div>
         <img src={Logo} alt="Logo foto" style={{ width: "60px" }} className="cursor-pointer hover:scale-105 duration-200" />
       </div>
-
+ */}
       {/* menu */}
       <ul className="hidden md:flex font-medium">
         {['home', 'about', 'skills', 'work', 'contact'].map((item) => (
@@ -63,7 +63,7 @@ const Navbar = () => {
       </ul>
 
       {/* Social Icons */}
-      <div className="hidden lg:flex fixed flex-col top-[35%] left-0">
+      <div className="hidden lg:flex fixed flex-col top-[100%] left-0">
         <ul>
           {/* <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600">
             <a
